@@ -1,13 +1,11 @@
 ---
 layout: default
 title: Amanda Myntti
-description: Index page
+description:
 ---
 
-# Presentations
+# Presentations and Posters
 
-Different ways to view pde
-<embed src="https://mmanteli.github.io/AI-DOC-evant-poster.pdf" type="application/pdf" />
-
-Embed?
 [AI-DOC event 13.2.2025](./AI-DOC-event-poster.pdf)
+
+[NLP4DH Workshop at EMNLP 2024](https://github.com/mmanteli/register-and-genre/blob/main/presentation/Poster_NLP4DH_Myntti.pdf)
