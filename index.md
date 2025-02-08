@@ -7,7 +7,7 @@ description: Index page
 # Presentations
 
 Different ways to view pde
-<a href="mmanteli.github.io/AI-DOC-event-poster.pdf" target="_blank">PDF.</a>
+<embed src="https://mmanteli.github.io/AI-DOC-evant-poster.pdf" type="application/pdf" />
 
 Embed?
 [AI-DOC event 13.2.2025](./AI-DOC-event-poster.pdf)
