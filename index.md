@@ -3,6 +3,9 @@ layout: default
 title: Amanda Myntti
 description:
 ---
+# About
+
+[Curriculum Vitae](./assets/CV.pdf)
 
 # Presentations and Posters
 
