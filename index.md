@@ -15,4 +15,4 @@ description:
 
 [NLP4DH Workshop at EMNLP 2024](https://github.com/mmanteli/register-and-genre/blob/main/presentation/Poster_NLP4DH_Myntti.pdf)
 
-[COLM 2025 at Montréal, Canada](./assets/COLM_posteri_vaaka_draft.pdf)
+[COLM 2025 at Montréal, Canada](./assets/COLM-2025-poster.pdf)
